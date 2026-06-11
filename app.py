@@ -38,7 +38,7 @@ with st.sidebar:
     st.title("🧠 Agent OS")
     st.markdown("---")
 
-    base_url = "https://logfire-us.pydantic.dev/tadepalli-saketh/enterpriserag"
+    base_url = "https://rag-api-612546369529.us-central1.run.app"
     
     st.markdown("---")
     st.success(f"Logfire: {LOGFIRE_STATUS}")
